@@ -22,7 +22,7 @@ During this process, the plans may be updated based on feedback from the activit
 - Sam Teplitzky (co-chair), Open Science Librarian, UC Berkeley
 - Rowan Cockett (co-chair), Cofounder and CEO, Curvenote
 - Catherine Jones, UKERC Energy Data Centre Lead at STFC
-- Roly Pereira, Institute of Computing for Climate Science Research Fellow in the Department of Computer Science and Technology, University of Cambridge
+- Roly Perera, Institute of Computing for Climate Science, Research Fellow in the Department of Computer Science and Technology, University of Cambridge
 - Virginia Scarlett, Open Source Programs Specialist, University of California, Santa Barbara
 - Manuela Pallotto Strickland, Metadata and Digital Preservation Coordinator, King's College London
 - Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science, UC Berkeley
