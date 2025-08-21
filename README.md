@@ -1,4 +1,4 @@
-# FORCE11 Preserving Executable Content Working Group
+# FORCE11 Preserving Interactive Research Content Working Group
 
 Sign up and obtain more information on the Force11 Working Group [Home Page](https://force11.org/group/preserving-executable-research-content-challenges-frameworks-and-best-practices/). The working group has a core governing group and is open to others who want to review materials, attend guest presentations or just follow along with progress. All core members are listed below.
 
