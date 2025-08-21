@@ -2,7 +2,7 @@
 
 Sign up and obtain more information on the Force11 Working Group [Home Page](https://force11.org/group/preserving-executable-research-content-challenges-frameworks-and-best-practices/). The working group has a core governing group and is open to others who want to review materials, attend guest presentations or just follow along with progress. All core members are listed below.
 
-Use the group [GitHub repository](https://github.com/force11/percwg) for documentation.
+Use the group [GitHub repository](https://github.com/force11/pircwg) for documentation.
 
 The group started in March 2025 and is planning to conclude by August/September 2026.
 
