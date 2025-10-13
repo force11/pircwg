@@ -46,6 +46,7 @@ project:
     AI: Artificial Intelligence
     GDP: Gross Domestic Product
     IRC: Interactive Research Content
+    WG: Working Group
   toc:
     - file: framing.md
     - file: graceful-degradation.md
