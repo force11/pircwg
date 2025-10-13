@@ -1,0 +1,54 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 454099e5-03fb-439d-83e1-28a7c643c7ae
+  title: Preserving Interactive Research Content
+  subtitle: Challenges, Frameworks, and Best Practices
+  # description:
+  # keywords: []
+  authors:
+    - name: Sam Teplitzky
+      orcid: 0000-0001-7071-332X
+      affiliation: Open Science Librarian, UC Berkeley
+    - name: Rowan Cockett
+      orcid: 0000-0002-7859-8394
+      email: rowan@curvenote.com
+      affiliations:
+        - Curvenote
+        - Continuous Science Foundation
+    - name: Catherine Jones
+      affiliation: UKERC Energy Data Centre Lead at STFC
+    - name: Roly Perera
+      orcid: 0000-0001-9249-9862
+      affiliation: Institute of Computing for Climate Science, Research Fellow in the Department of Computer Science and Technology, University of Cambridge
+    - name: Virginia Scarlett
+      orcid: 0000-0002-4156-2849
+      affiliation: Open Source Programs Specialist, University of California, Santa Barbara
+    - name: Manuela Pallotto Strickland
+      affiliation: Metadata and Digital Preservation Coordinator, King's College London
+    - name: Kirstie Whitaker
+      orcid: 0000-0001-8498-4059
+      affiliation: Executive Director, Berkeley Institute for Data Science, UC Berkeley
+  github: https://github.com/force11/pircwg
+  banner: banner.png
+  thumbnail: thumbnail.png
+  subject: PIRC Working Group
+  venue: FORCE11
+  date: 2025-10-09
+  open_access: true
+  license: CC-BY-4.0
+  abbreviations:
+    PIRC: Preserving Interactive Research Content
+    GD: Graceful Degradation
+    RAG: Retrieval-Augmented Generation
+    FAIR: Findable, Accessible, Interoperable, and Reusable
+    LLM: Large Language Model
+    AI: Artificial Intelligence
+    GDP: Gross Domestic Product
+    IRC: Interactive Research Content
+  toc:
+    - file: framing.md
+    - file: graceful-degradation.md
+    - file: definitions.md
+site:
+  template: article-theme

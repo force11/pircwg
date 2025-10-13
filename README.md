@@ -6,8 +6,11 @@ Use the group [GitHub repository](https://github.com/force11/pircwg) for documen
 
 The group started in March 2025 and is planning to conclude by August/September 2026.
 
+![](./increasing-interactivity-dial.png)
+
 ## Description
-Research is often more than the text content, and can include both the software and computational environments to reproduce work. These can be shared by researchers as computational notebooks, however, scholarly communications infrastructure is currently poorly positioned to both display, interact with, and archive that content. The next-generation of executable research content in scientific publishing requires comprehensive strategies, guidelines, and frameworks to ensure long-term preservation of the scientific record.
+
+Research is often more than the text content, and can include both the software and computational environments to reproduce work. These can be shared by researchers as computational notebooks, however, scholarly communications infrastructure is currently poorly positioned to both display, interact with, and archive that content. The next-generation of interactive and executable research content in scientific publishing requires comprehensive strategies, guidelines, and frameworks to ensure long-term preservation of the scientific record.
 
 This working group will cover and work towards:
 
@@ -19,6 +22,7 @@ This working group will cover and work towards:
 During this process, the plans may be updated based on feedback from the activities.
 
 ## Core Group members
+
 - Sam Teplitzky (co-chair), Open Science Librarian, UC Berkeley
 - Rowan Cockett (co-chair), Cofounder and CEO, Curvenote
 - Catherine Jones, UKERC Energy Data Centre Lead at STFC
@@ -26,10 +30,12 @@ During this process, the plans may be updated based on feedback from the activit
 - Virginia Scarlett, Open Source Programs Specialist, University of California, Santa Barbara
 - Manuela Pallotto Strickland, Metadata and Digital Preservation Coordinator, King's College London
 - Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science, UC Berkeley
- 
+
 ## Meetings
+
 ### Virtual
-Monthly virtual core group meetings are generally held at 09:00 Pacific / Noon Eastern / 16:00 UTC / 17:00 BST on 3rd Tuesdays. 
+
+Monthly virtual core group meetings are generally held at 09:00 Pacific / Noon Eastern / 16:00 UTC / 17:00 BST on 3rd Tuesdays.
 
 General meetings TBD, planned to begin ~ Sept/Oct 2025
 
@@ -38,9 +44,11 @@ Meeting agendas and minutes can be found at: TBD
 **Zoom information:** TBD
 
 ### In-person Meetings
+
 TBD but may be organized to coincide with Force11 meetings.
 
 ## Timeline
+
 (subject to change)
 
 - January - March 2025: Launch. Recruit interested members and form core working group.
@@ -51,8 +59,7 @@ TBD but may be organized to coincide with Force11 meetings.
 - 2026: Evaluation and Finalizing outcomes
 
 ## What we need
+
 TBD
 
 ## Group Products
-
-
