@@ -58,8 +58,6 @@ TBD but may be organized to coincide with Force11 meetings.
 - 2026: Case Studies
 - 2026: Evaluation and Finalizing outcomes
 
-## What we need
+## Building the Article
 
-TBD
-
-## Group Products
+This uses `mystmd` (https://mystmd.org) to preview, create, and build the article. To get started `pip install mystmd` and run `myst start` and make changes to the markdown files. Any changes will be deployed automatically when merged to `main`.
