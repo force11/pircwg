@@ -50,6 +50,7 @@ project:
   toc:
     - file: framing.md
     - file: graceful-degradation.md
+    - file: expanding.md
     - file: definitions.md
 site:
   template: article-theme

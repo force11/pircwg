@@ -22,6 +22,11 @@ Fortunately, many technologies already exist to support the preservation of inte
 Complex systems can fail or simplify _incrementally_ rather than catastrophically, we promote designing systems that provide the richest experience possible _when everything works_, while still offering meaningful, functional fallback options _when conditions change_.
 :::
 
+:::{card} 📖 Expanding the Idea: Perspectives from the Ecosystem
+:url: expanding.md
+As we move forward with advancing the PIRC Working Group’s framework for graceful degradation, we invite readers to consider what this approach might look like from their own positions across the scientific communication landscape.
+:::
+
 :::{card} 📗 Definitions
 :url: definitions.md
 Terms and definitions, in this context, including our definition of preservation and interactive research content.
