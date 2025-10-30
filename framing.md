@@ -29,7 +29,7 @@ As we move forward with advancing the PIRC Working Group’s framework for grace
 
 :::{card} 📗 Definitions
 :url: definitions.md
-Terms and definitions, in this context, including our definition of preservation and interactive research content.
+Terms and definitions, including our definition of preservation and interactive research content.
 :::
 
 ## Working Group Contribution
