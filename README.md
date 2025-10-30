@@ -57,6 +57,13 @@ TBD but may be organized to coincide with Force11 meetings.
 - 2026: Case Studies
 - 2026: Evaluation and Finalizing outcomes
 
+## Group Products
+### Publications
+2025, October. Preserving Interactive Research Content: Challenges, Frameworks, and Best Practices. https://force11.github.io/pircwg/graceful-degradation/
+
+### Presentations
+2025, October 16. Preserving Interactive Research Content: Challenges, Frameworks, and Best Practices. Lightning talk at Cracking Open: Open Science Unconference, Carnegie Mellon University. https://ucberk.li/pirc-gd
+
 ## Building the Article
 
 This uses `mystmd` (https://mystmd.org) to preview, create, and build the article. To get started `pip install mystmd` and run `myst start` and make changes to the markdown files. Any changes will be deployed automatically when merged to `main`.
