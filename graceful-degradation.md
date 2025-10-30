@@ -5,7 +5,7 @@ subtitle: A framework for balancing innovation and longevity in research communi
 
 ## What is Graceful Degradation?
 
-**Graceful degradation** (GD) is the idea that complex systems can fail or simplify _incrementally_—not catastrophically. It’s about designing systems that provide the richest experience possible _when everything works_, while still offering meaningful, functional fallback options _when conditions change_.
+**Graceful degradation** (GD) is the idea that complex systems can fail or lose functionality _incrementally_—not catastrophically. It’s about designing systems that provide the richest experience possible _when everything works_, while still offering meaningful, functional fallback options _when conditions change_.
 
 In the context of science, this means designing research outputs that start with interactive, computationally rich features—like live visualizations, linked data, and executable code—but retain value even if those layers degrade over time. Instead of binary outcomes (working vs. broken), we enable a spectrum—from fully interactive environments to recorded demos, static images, and structured metadata.
 
