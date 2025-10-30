@@ -19,7 +19,7 @@ Fortunately, many technologies already exist to support the preservation of inte
 :::{card} ↔️ Graceful Degradation
 :url: graceful-degradation.md
 
-Complex systems can fail or simplify _incrementally_ rather than catastrophically. We promote designing systems that provide the richest experience possible _when everything works_, while still offering meaningful, functional fallback options _when conditions change_.
+Complex systems can fail or downgrade _incrementally_ rather than catastrophically. We promote designing systems that provide the richest experience possible _when everything works_, while still offering meaningful, functional fallback options _when conditions change_.
 :::
 
 :::{card} 📖 Expanding the Idea: Perspectives from the Ecosystem
