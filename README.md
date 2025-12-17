@@ -26,7 +26,7 @@ During this process, the plans may be updated based on feedback from the activit
 - Sam Teplitzky (co-chair), Open Science Librarian, UC Berkeley
 - Rowan Cockett (co-chair), Cofounder and CEO, Curvenote
 - Catherine Jones, UKERC Energy Data Centre Lead at STFC
-- Roly Perera, Institute of Computing for Climate Science, Research Fellow in the Department of Computer Science and Technology, University of Cambridge
+- Roly Perera, Assistant Research Professor, Department of Computer Science and Technology, University of Cambridge
 - Virginia Scarlett, Open Source Programs Specialist, University of California, Santa Barbara
 - Manuela Pallotto Strickland, Metadata and Digital Preservation Coordinator, King's College London
 - Kirstie Whitaker, Executive Director, Berkeley Institute for Data Science, UC Berkeley
@@ -35,11 +35,10 @@ During this process, the plans may be updated based on feedback from the activit
 
 ### Virtual
 
-Monthly virtual core group meetings are generally held at 09:00 Pacific / Noon Eastern / 16:00 UTC / 17:00 BST on 3rd Tuesdays.
+Monthly virtual core group meetings were generally held at 09:00 Pacific / Noon Eastern / 16:00 UTC / 17:00 BST on 3rd Tuesdays from April through October 2025.
 
-General meetings TBD, planned to begin ~ Sept/Oct 2025
+General meetings TBD, planned to begin in early 2026
 
-Meeting agendas and minutes can be found at: TBD
 
 **Zoom information:** TBD
 
@@ -52,11 +51,18 @@ TBD but may be organized to coincide with Force11 meetings.
 (subject to change)
 
 - January - March 2025: Launch. Recruit interested members and form core working group.
-- March 2025 - September 2025: Agree on scope, begin ecosystem scan.
-- June 2025 - December 2025: Description of framework and tradeoffs
-- June 2025 - December 2025: Checklist creation
+- March 2025 - September 2025: Agree on scope, create literature scan.
+- June 2025 - September 2025: Description of graceful degradation framework and creation of visualizations.
+- 2026: Guest Speakers
 - 2026: Case Studies
 - 2026: Evaluation and Finalizing outcomes
+
+## Group Products
+### Publications
+2025, October. Preserving Interactive Research Content: Challenges, Frameworks, and Best Practices. https://force11.github.io/pircwg/graceful-degradation/
+
+### Presentations
+2025, October 16. Preserving Interactive Research Content: Challenges, Frameworks, and Best Practices. Lightning talk at Cracking Open: Open Science Unconference, Carnegie Mellon University. https://ucberk.li/pirc-gd
 
 ## Building the Article
 

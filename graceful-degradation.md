@@ -5,9 +5,9 @@ subtitle: A framework for balancing innovation and longevity in research communi
 
 ## What is Graceful Degradation?
 
-**Graceful degradation** (GD) is the idea that complex systems can fail or lose functionality _incrementally_—not catastrophically. It’s about designing systems that provide the richest experience possible _when everything works_, while still offering meaningful, functional fallback options _when conditions change_.
+**Graceful degradation** (GD) refers to software decay management practices that ensure that the core value of a digital product continues to be delivered even as its underlying technology becomes out of date. GD is both a technique and a philosophy that emphasizes a long-term mindset and designing products that will age well. Digital products designed with GD techniques will be modular, will include redundancy and failsafes, will minimize external dependencies, and will ensure value/content delivery over the long term, even at the cost of short-term drawbacks, such as some additional complexity for the user or designer. We believe that GD is highly relevant to tools and platforms for the dissemination of scholarly research, since these platforms are not merely content delivery mechanisms but also stewards of public knowledge.
 
-In the context of science, this means designing research outputs that start with interactive, computationally rich features—like live visualizations, linked data, and executable code—but retain value even if those layers degrade over time. Instead of binary outcomes (working vs. broken), we enable a spectrum—from fully interactive environments to recorded demos, static images, and structured metadata.
+In the context of interactive scholarly research content today, the most important aspect of GD is the need for a variety of output formats. This means designing research outputs that start with interactive, computationally rich features—like live visualizations, linked data, and executable code but retain value even if those layers degrade over time. Instead of binary outcomes (working vs. broken), GD enables a spectrum—from fully interactive environments to recorded demos, static images, and structured metadata.
 
 A few reasons graceful degradation matters:
 
