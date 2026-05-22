@@ -37,25 +37,17 @@ During this process, the plans may be updated based on feedback from the activit
 
 Monthly virtual core group meetings were generally held at 09:00 Pacific / Noon Eastern / 16:00 UTC / 17:00 BST on 3rd Tuesdays from April through October 2025.
 
-General meetings TBD, planned to begin in early 2026
-
-
-**Zoom information:** TBD
-
 ### In-person Meetings
 
-TBD but may be organized to coincide with Force11 meetings.
+Findings were presented at Force11 2026.
 
 ## Timeline
-
-(subject to change)
 
 - January - March 2025: Launch. Recruit interested members and form core working group.
 - March 2025 - September 2025: Agree on scope, create literature scan.
 - June 2025 - September 2025: Description of graceful degradation framework and creation of visualizations.
-- 2026: Guest Speakers
-- 2026: Case Studies
-- 2026: Evaluation and Finalizing outcomes
+- Fall 2025: Finalize visualization and documents
+- Spring 2026: Presentation at Force11 Singapore and completion of group
 
 ## Group Products
 ### Publications
